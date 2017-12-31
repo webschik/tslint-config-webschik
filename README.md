@@ -24,6 +24,7 @@ In `tslint.json`:
 ### Rules
 
 * [tslint](https://www.npmjs.com/package/tslint)
+* [tslint:recommended](https://github.com/palantir/tslint/blob/master/src/configs/recommended.ts)
 * [tslint-eslint-rules](https://www.npmjs.com/package/tslint-eslint-rules)
 
 ## Versioning
